@@ -1,0 +1,676 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "exercice1",
+					"jsonFile" : "directory-exercice1-Debug-0a55cfb84055f1aa8fac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "exercice2",
+					"jsonFile" : "directory-exercice2-Debug-efb626d2aa7922461055.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice2",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "exercice3",
+					"jsonFile" : "directory-exercice3-Debug-81e991517496e7bc4781.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice3",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "exercice4",
+					"jsonFile" : "directory-exercice4-Debug-35d89bfb212054fa77be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice4",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "exercice5",
+					"jsonFile" : "directory-exercice5-Debug-a9fc0bd976efa245af9b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice5",
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"build" : "exercice6",
+					"jsonFile" : "directory-exercice6-Debug-5900d59026772d21782e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice6",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "exercice7",
+					"jsonFile" : "directory-exercice7-Debug-88c61f8d9fd4d023757b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice7",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "exercice8",
+					"jsonFile" : "directory-exercice8-Debug-778ece8e2ec87818c724.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice8",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "exercice9",
+					"jsonFile" : "directory-exercice9-Debug-1a3f1080ca08d0d27580.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice9",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"build" : "exercice10",
+					"jsonFile" : "directory-exercice10-Debug-276906e62fc571290aa7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice10",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "exercice11",
+					"jsonFile" : "directory-exercice11-Debug-f493de490a592bed1936.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice11",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "exercice12",
+					"jsonFile" : "directory-exercice12-Debug-76f9cf1df69ee1488aca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice12",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "exercice13",
+					"jsonFile" : "directory-exercice13-Debug-dd39dfe6c22982f78dc7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice13",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "exercice14",
+					"jsonFile" : "directory-exercice14-Debug-489354b9c736869a7e8d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice14",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "exercice15",
+					"jsonFile" : "directory-exercice15-Debug-0c2aa260045398ab745f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice15",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "exercice16",
+					"jsonFile" : "directory-exercice16-Debug-b0e49d2bfab305d93aea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice16",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "exercice17",
+					"jsonFile" : "directory-exercice17-Debug-1deea9df5535021e02b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice17",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "exercice18",
+					"jsonFile" : "directory-exercice18-Debug-3ccaf133e136810ae881.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice18",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "exercice19",
+					"jsonFile" : "directory-exercice19-Debug-1a7ef0abdc7feefbc57d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice19",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "exercice20",
+					"jsonFile" : "directory-exercice20-Debug-4ad0b767c3287e184c21.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice20",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "exercice21",
+					"jsonFile" : "directory-exercice21-Debug-5617debb665081a8885a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice21",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "exercice22",
+					"jsonFile" : "directory-exercice22-Debug-b6fc46f9e57794c3ed92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice22",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "exercice23",
+					"jsonFile" : "directory-exercice23-Debug-44a48772319633ba0c40.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice23",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "exercice24",
+					"jsonFile" : "directory-exercice24-Debug-bf1e7e0527fe9e3de319.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exercice24",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "exerciceCours1",
+					"jsonFile" : "directory-exerciceCours1-Debug-eb543974344e7ab81294.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exerciceCours1",
+					"targetIndexes" : 
+					[
+						24
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					],
+					"name" : "exerciceTableaux",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "exercice1::@4eadd467ec6d2d340e14",
+					"jsonFile" : "target-exercice1-Debug-77fb43d8fec8e15f435d.json",
+					"name" : "exercice1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "exercice10::@66ef546b886afb5d6d7b",
+					"jsonFile" : "target-exercice10-Debug-b687dc635641e166db1b.json",
+					"name" : "exercice10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "exercice11::@cad7f56eff3e1a4023df",
+					"jsonFile" : "target-exercice11-Debug-059525bed338461db89d.json",
+					"name" : "exercice11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "exercice12::@bc09692b3e614badcaf7",
+					"jsonFile" : "target-exercice12-Debug-646d35d2060c5227d79a.json",
+					"name" : "exercice12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "exercice13::@5714eec5d906cbc17ede",
+					"jsonFile" : "target-exercice13-Debug-66a28934b65a7eedcaef.json",
+					"name" : "exercice13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "exercice14::@c875b00502b54e7ff0c4",
+					"jsonFile" : "target-exercice14-Debug-3a5cb09a7e8036dd78ad.json",
+					"name" : "exercice14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "exercice15::@0f29e9636cf3b812f983",
+					"jsonFile" : "target-exercice15-Debug-d8a41c9355d8dd3cd65a.json",
+					"name" : "exercice15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "exercice16::@2a56532014e09e620f22",
+					"jsonFile" : "target-exercice16-Debug-32f290da9e8a67294022.json",
+					"name" : "exercice16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "exercice17::@9ab862a219b67045c084",
+					"jsonFile" : "target-exercice17-Debug-c791e9ccc0b874a14739.json",
+					"name" : "exercice17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "exercice18::@02856e7f70d39213e659",
+					"jsonFile" : "target-exercice18-Debug-df559e1f322450ffee60.json",
+					"name" : "exercice18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "exercice19::@acdc2496076d77eff166",
+					"jsonFile" : "target-exercice19-Debug-80994227ba2bcbcdb03b.json",
+					"name" : "exercice19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "exercice2::@9eed4f3aedb6601f9025",
+					"jsonFile" : "target-exercice2-Debug-9a2c35fc6524ac6cb96a.json",
+					"name" : "exercice2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "exercice20::@040c3b1f58a8e3f839f5",
+					"jsonFile" : "target-exercice20-Debug-f067460e32e3cad82dc0.json",
+					"name" : "exercice20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "exercice21::@4514bb2fd7ca1096ef49",
+					"jsonFile" : "target-exercice21-Debug-4f4617cf65eab0bba190.json",
+					"name" : "exercice21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 22,
+					"id" : "exercice22::@14dcc54b217b9b8fcab8",
+					"jsonFile" : "target-exercice22-Debug-1f3cf31d80f714e47393.json",
+					"name" : "exercice22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 23,
+					"id" : "exercice23::@06a199c6343887045dbe",
+					"jsonFile" : "target-exercice23-Debug-9c04382cfcdb913b5fca.json",
+					"name" : "exercice23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 24,
+					"id" : "exercice24::@ea0dc744ac11346d917f",
+					"jsonFile" : "target-exercice24-Debug-a68f1f0565a139e68d0f.json",
+					"name" : "exercice24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "exercice3::@632286fa2979ee1c0c2a",
+					"jsonFile" : "target-exercice3-Debug-b948563744233cf732e0.json",
+					"name" : "exercice3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "exercice4::@23941e616848cebb0876",
+					"jsonFile" : "target-exercice4-Debug-b3961acfaff4f33f7e75.json",
+					"name" : "exercice4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "exercice5::@7baed1b7647f1c054646",
+					"jsonFile" : "target-exercice5-Debug-349541f7e886aefb5d75.json",
+					"name" : "exercice5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "exercice6::@9966439d6d66774493cc",
+					"jsonFile" : "target-exercice6-Debug-96d0fa064903a8dc2c03.json",
+					"name" : "exercice6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "exercice7::@ef74e9d5b43e1627752f",
+					"jsonFile" : "target-exercice7-Debug-4700d32d5580e219a671.json",
+					"name" : "exercice7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "exercice8::@1c44d895705fb217dbfe",
+					"jsonFile" : "target-exercice8-Debug-8ab6ebc16a70260d294f.json",
+					"name" : "exercice8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "exercice9::@03a17e232ed23937cc9d",
+					"jsonFile" : "target-exercice9-Debug-87786e55660f793de14a.json",
+					"name" : "exercice9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 25,
+					"id" : "exerciceCours1::@3fb9278d84028a257d6e",
+					"jsonFile" : "target-exerciceCours1-Debug-2770c0ed89b3538a0a50.json",
+					"name" : "exerciceCours1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/scz/ITSCM/prog_init/exerciceTableaux/cmake-build-debug",
+		"source" : "/Users/scz/ITSCM/prog_init/exerciceTableaux"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
