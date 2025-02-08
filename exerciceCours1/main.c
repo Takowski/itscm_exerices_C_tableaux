@@ -1,6 +1,4 @@
 #include <stdio.h>
 
-int main() {
-    printf("Hello from exerci\n");
-    return 0;
-}
+int main() {printf("Hello from exercicecours1\n");
+    return 0;}

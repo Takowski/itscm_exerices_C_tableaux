@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-int main() {
-    printf("Hello from exercice2\n");
-    return 0;
+int
+main ()
+{
+
+    int entier[4] = { 0 };
+
+    printf ("entier: %d\n", entier[0]);
 }
